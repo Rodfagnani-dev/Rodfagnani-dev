@@ -30,10 +30,10 @@
 
 ```yaml
 identidade:
-  nome: "Rod Fagnani"
+  nome: "Rodrigo Fagnani"
   usuario_github: "Rodfagnani-dev"
   funcao: "Full Stack Developer"
-  localizacao: "Brasil"
+  localizacao: " Curitiba Brasil"
   linguagem_principal: "JavaScript / Python"
   status: "Compilando ideias em código"
 
@@ -74,27 +74,11 @@ modo_atual: "focus_mode: ATIVADO"
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,redux&theme=dark" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel,fastapi&theme=dark" />
-
-**Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase&theme=dark" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,php,html,css&theme=dark" />
 
 **Ferramentas & Ambiente**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,npm,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
@@ -173,7 +157,6 @@ rod@dev-machine:~$ echo "Carregando próximo commit..."
 
 <img src="https://raw.githubusercontent.com/Rodfagnani-dev/Rodfagnani-dev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-> ⚙️ *A animação da snake é gerada automaticamente via GitHub Actions com base no seu histórico de contribuições. Veja as instruções de instalação logo abaixo.*
 
 </div>
 
@@ -201,8 +184,6 @@ rod@dev-machine:~$ echo "Carregando próximo commit..."
 </a>
 
 <br/><br/>
-
-> 💡 *Atualize os links acima com suas URLs reais de LinkedIn/Instagram/Twitter quando desejar — o email e o usuário do GitHub já estão configurados.*
 
 </div>
 
